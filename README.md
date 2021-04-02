@@ -3,6 +3,7 @@ Job offers search engine on 4 Brazilian websites.
 
 # What the project does
 Perform web scraping of 4 web pages:
+
 https://www.trabalhabrasil.com.br
 
 https://www.vagascertas.com/vagas/vagas/
